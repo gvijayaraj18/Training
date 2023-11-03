@@ -1,3 +1,0 @@
-
- git file
- Hello new git file
